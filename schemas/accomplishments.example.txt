@@ -1,0 +1,10 @@
+# One accomplishment per line. Referenced by FORGE to confirm the
+# highest-value achievements appear in the relevant role's bullets.
+# Not rendered as a standalone section; that would duplicate the experience bullets.
+
+Improved compliance metrics by 25% by building analytics tools, dashboards, and trend reporting for a regulated operation.
+Reduced report generation time by 40% by migrating source systems into a cloud data warehouse.
+Engineered pipelines processing 500K+ records hourly while maintaining data integrity across continuous workflows.
+Delivered 15+ dashboards and monitoring tools for operations, quality, and compliance stakeholders.
+Reduced manual data processing by 60% by automating ETL workflows.
+Directed and mentored a four-person analytics team, assigning work and reviewing outputs.

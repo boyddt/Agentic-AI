@@ -1,0 +1,10 @@
+# Approved titles FORGE may use for the headline.
+# FORGE selects the closest semantic match to the target's own title.
+# Keep this list current with the actual target market; a thin list forces
+# weak matches.
+
+Data Analyst
+Senior Data Analyst
+Senior Data Engineer
+Business Intelligence Analyst
+Data Scientist

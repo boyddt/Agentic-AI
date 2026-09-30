@@ -1,0 +1,58 @@
+# ---------------------------------------------------------------------------
+# This repository must never contain personal data.
+# These rules are deliberately broad. A false positive costs you one commit.
+# A false negative publishes someone's private information permanently.
+# ---------------------------------------------------------------------------
+
+# Generated documents
+*.docx
+*.xlsx
+*.pptx
+*.pdf
+*.odt
+*.dotx
+Output/
+output/
+
+# Source-of-truth files with real content
+# (schemas/ holds illustrative examples only, and is committed)
+Skills_Inventory.md
+Master_Work_History.md
+AreasExpertise.txt
+CareerAccomplishments.txt
+JobTitles.txt
+
+# Archived requirement documents
+JDs/
+jds/
+
+# Calendar and tracking artifacts
+*.ics
+
+# Credentials and configuration
+*_config.md
+settings.json
+.env
+*.token
+*.key
+*.pem
+credentials*
+
+# Logs
+*.log
+sort_log.txt
+cron.log
+
+# OS and editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/

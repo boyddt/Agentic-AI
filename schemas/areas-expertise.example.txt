@@ -1,0 +1,32 @@
+# Format: Category: SingleExpertise
+# One expertise per line. FORGE groups by category and selects
+# the highest-scoring entries per target to assemble each rendered line.
+# Never put multiple comma-separated skills on one line; FORGE does that.
+
+Data Extraction: SQL
+Data Extraction: Python
+Data Extraction: ERP System
+Data Storage: Cloud Warehouse
+Data Storage: Relational Database
+Data Storage: Data Lake
+Data Visualization: Primary BI Tool
+Data Visualization: Dashboard Design
+Data Visualization: Report Development
+ETL: Pipeline Development
+ETL: Data Migration
+ETL: Source-to-Target Mapping
+Programming: Python
+Programming: SQL
+Programming: Automation Scripting
+AI Engineering: Agentic AI Workflows
+AI Engineering: Multi-Agent Orchestration
+AI Engineering: Prompt Engineering
+AI Engineering: AI-Assisted Development
+AI Engineering: Workflow Automation
+AI Engineering: API Integration
+Analysis: Statistical Quality Control
+Analysis: Predictive Analytics
+Analysis: Anomaly Detection
+Regulatory: Data Governance
+Regulatory: Compliance Reporting
+Regulatory: System Validation
